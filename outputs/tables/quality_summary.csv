@@ -1,0 +1,8 @@
+check,value,note
+countries_configured,17,Countries requested in the first-pass comparison set.
+countries_with_complete_snapshot,17,"Countries with non-missing aging, pension spending, debt, and yield fields."
+public_pension_spending_rows,212,Organisation for Economic Co-operation and Development public old-age pension spending observations.
+old_age_dependency_rows,255,World Bank old-age dependency observations for selected countries.
+government_debt_rows,780,International Monetary Fund general government gross debt observations for selected countries.
+bond_yield_countries,17,Countries with a fetched long-term government bond yield series.
+source_checked_date,2026-05-26,Date the local script retrieved public source data.
